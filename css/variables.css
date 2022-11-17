@@ -14,7 +14,7 @@
     --primary-800: 5, 44, 101;
     --primary-900: 3, 22, 51;
 
-    --secondary: 102, 16, 242;
+    --secondary: 37, 75, 88;
     --secondary-100: 224, 207, 252;
     --secondary-200: 194, 159, 250;
     --secondary-300: 164, 112, 247;
@@ -91,8 +91,8 @@
     --border-radius-circle: 100%;
 
     /* font */
-    --display-font: 'Playfair Display', serif;
-    --defult-font:'Roboto', sans-serif;
+    --display-font: 'Monsterrat', sans-serif;
+    --defult-font:'Monsterrat', sans-serif;
     /* font size */
     --font-size-defult: 1rem;
     --font-size-small: 0.875rem;
@@ -112,6 +112,9 @@
     --font-weight-thin: 100;
     --font-weight-light: 300;
     --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
     --font-weight-bold: 700;
     --font-weight-black: 900;
+
   }
