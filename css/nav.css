@@ -1,0 +1,14 @@
+.waterLogo {
+    height: auto;
+    width: auto;
+    
+}
+
+.navBar {
+    justify-content: start;
+    margin-right: 20px;
+}
+
+.mainContent {
+    padding-right: 100px;
+}
