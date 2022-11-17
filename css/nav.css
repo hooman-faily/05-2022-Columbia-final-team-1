@@ -1,0 +1,20 @@
+
+font-family: 'Montserrat', sans-serif;
+
+.waterLogo {
+    height: 10%;
+    width: auto;
+    margin-left: 20px;
+}
+
+.navBar {
+    justify-content: start;
+    margin-right: 20px;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: space-between;
+
+}
+
+.mainContent {
+    padding-right: 100px;
+}
