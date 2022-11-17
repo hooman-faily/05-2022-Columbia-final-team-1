@@ -4,15 +4,16 @@ font-family: 'Montserrat', sans-serif;
 
 
 .navBar {
+   
+}
+
+.nav-link {
+    margin: 0px 75px;
     justify-content: start;
     margin-right: 50px;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     justify-content: space-between;
-}
-
-.nav-link {
-    margin: 0px 75px;
     
 }
 
