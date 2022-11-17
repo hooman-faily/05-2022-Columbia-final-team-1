@@ -1,20 +1,44 @@
 
 font-family: 'Montserrat', sans-serif;
 
-.waterLogo {
-    height: 10%;
-    width: auto;
-    margin-left: 20px;
-}
+
 
 .navBar {
     justify-content: start;
-    margin-right: 20px;
+    margin-right: 50px;
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
     justify-content: space-between;
+}
 
+.nav-link {
+    margin: 0px 75px;
+    
+}
+
+.btn {
+    margin-left: 75px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 78px;
+    color: white ;
+    padding-left: 130px;
+    padding-top: 50px;
+    padding-bottom: 109px;
+}
+.heroContent {
+    background-color: rgb(10, 42, 53);
+}
+
+.waterBoy {
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+   
 }
 
 .mainContent {
-    padding-right: 100px;
+    padding-top: 50px;
 }
