@@ -7,8 +7,10 @@ font-family: 'Montserrat', sans-serif;
    
 }
 
+
+
 .nav-link {
-    margin: 0px 75px;
+    margin: 0px 35px;
     justify-content: start;
     margin-right: 50px;
     font-family: 'Montserrat', sans-serif;
@@ -18,7 +20,21 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .btn {
+    
     margin-left: 75px;
+    margin-right: 50px;
+    height: 52px;
+    width: 110px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(242, 178, 153);
+    outline-color: rgb(242, 178, 153);
+}
+.btn:hover {
+    color: white;
+
 }
 
 h1 {
